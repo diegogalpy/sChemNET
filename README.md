@@ -23,7 +23,7 @@ If you find any bug in our code, please let us know: dgaleano@ing.una.py.
 ## References
 If you find these resources useful, please cite our work:
 
-Galeano et al. sChemNET: A deep learning framework for predicting small molecules targeting microRNA function, Nature Communications, 2024.
+Galeano et al. **sChemNET: A deep learning framework for predicting small molecules targeting microRNA function**, *Nature Communications*, 2024.
 
 ## Research page
 
